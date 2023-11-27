@@ -1,0 +1,31 @@
+.head{
+    text-align: center;
+    background-color:black;
+    color:white;
+    padding: 15px;
+    margin-top:0px;
+}
+.c{
+    text-align: center;
+    font-size: large;
+}
+.q{
+    font-size: larger;
+}
+.but{
+    display:flex;
+    border:1px solid rgb(0, 0, 0);
+    padding:10px;
+    color:black;
+    background-color: rgb(255, 255, 255);
+    border-radius:2px;
+    margin-left: 725px;
+}
+.but:hover{
+    background-color: yellow;
+    
+}
+.q{
+    text-align: center;
+    text-decoration: wavy;
+}
